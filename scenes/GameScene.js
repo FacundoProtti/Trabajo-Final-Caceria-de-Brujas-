@@ -18,7 +18,7 @@ export default class GameScene extends Phaser.Scene {
       frameWidth: 40,
       frameHeight: 50,
     });
-    this.load.image("letterM", "public/assets/m.png");
+    this.load.image("letterM", "public/assets/M.png");
   }
 
   create() {
