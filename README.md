@@ -10,6 +10,7 @@ El jugador controla a Serenna, una herborista acusada de brujería, que debe hui
 
 ## Controles
  Barra espaciadora: Saltar
+ <br><br>
  Tecla C: Agacharse
 
 ## Trailer
